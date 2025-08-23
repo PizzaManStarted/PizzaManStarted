@@ -16,12 +16,12 @@
 <h2>
 Tools :
 </h2>
+Here is a list of the tools I use daily in order to complete my projects:
 
 <h3>
 Work environment :
 </h3>
 
-Here are a list of the tools I use daily in order to complete my projects :
 
 [![My Skills](https://skillicons.dev/icons?i=arch,vscode,github,neovim)](https://skillicons.dev)
 
@@ -51,7 +51,7 @@ Good with :
 <b> 🔭 Future goals : </b>
 </h1>
 
-My hope is that I can one day join professionally the video game industry, either as a tool or gameplay programmer and for this reason I learned on the side the following programs :
+My hope is that I can one day join professionally the video game industry, either as a tool or gameplay programmer and for this reason I learned on the side the following programs:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -59,6 +59,6 @@ My hope is that I can one day join professionally the video game industry, eithe
   </a>
 </p>
 
-<h1 align="center"> 🥀 Inspirational quotes </h1>
+<h1 align="center"> 🥀 Inspirational quote </h1>
 
 > *Why do they call it oven when you of in the cold food of out hot eat the food ?* -**Socrates** 
