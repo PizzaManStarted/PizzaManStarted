@@ -44,8 +44,7 @@ Good with :
 <b> 🛠️ Currently working : </b>
 </h1>
 
-* On [$\texttt{RITM}$](https://github.com/PizzaManStarted/ritm) which is a collection of tools used to better visualize the executions of Turing Machines (made entirely in **Rust**)
-* 🤫 As an intern
+* On [$\texttt{RITM}$](https://github.com/FunnyFishStudio/ritm) which is a collection of tools used to better visualize the executions of Turing Machines (made entirely in **Rust**)
 
 <h1 align="center">
 <b> 🔭 Future goals : </b>
