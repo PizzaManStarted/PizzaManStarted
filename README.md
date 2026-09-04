@@ -5,8 +5,7 @@
 
 - 😄 **Name**: *Axel Foucart* (known online as `Pizzel`) ![Bird avatar](resources/bird.gif)
 
-- 🔭 **Studies**: Currently studying at [Umons](https://web.umons.ac.be) for a master dregree in IT.
-  - Currently in second year.
+- 🔭 **Studies**: Currently working at [Umons](https://web.umons.ac.be) as a PhD assistant in IT.
 
 - ⚡ **Hobbies** : Coding, reading and of course video games.
 
@@ -44,7 +43,7 @@ Good with :
 <b> 🛠️ Currently working : </b>
 </h1>
 
-* On [$\texttt{RITM}$](https://github.com/FunnyFishStudio/ritm) which is a collection of tools used to better visualize the executions of Turing Machines (made entirely in **Rust**)
+* On [RITM](https://github.com/FunnyFishStudio/ritm) which is a collection of tools used to better visualize the executions of Turing Machines (made entirely in **Rust**)
 
 <h1 align="center">
 <b> 🔭 Future goals : </b>
